@@ -1,5 +1,7 @@
+//A simple calendar display
 import java.util.Scanner;
-public class Problem_5_29 {
+
+public class Calendar {
 	public static void main(String[] args){
 		Scanner s = new Scanner(System.in);
 		
