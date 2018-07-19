@@ -1,9 +1,9 @@
-
+//A sample of a lottery simulation, where the user provides a 3 digit number which is checked against a randomly generated number.
 import java.util.Scanner;
 import java.util.stream.IntStream;
  
-//3.15
-public class Problem_3_15 {
+
+public class Lottery {
     public static void main(String [] args){
  
     	//Generate random number with 3 digits
