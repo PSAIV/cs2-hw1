@@ -1,8 +1,8 @@
 
 import java.awt.geom.Rectangle2D;
 import java.util.Scanner;
-//3.28
-public class Problem_3_28 {
+
+public class RectangleOverlap {
 	
 	public static void main(String[] args){
 		//Open the scanner
