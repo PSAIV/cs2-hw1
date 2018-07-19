@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.NumberFormat;
-//4.23
-public class Problem_4_23 {
+
+public class CalcTax {
 	
 	public static void main(String[] args){
 		Scanner s = new Scanner(System.in);
