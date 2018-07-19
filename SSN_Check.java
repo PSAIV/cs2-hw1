@@ -1,6 +1,8 @@
+//Given an input, will return if the input fits a SSN format or not.
+//Could re-write this with regex to shave a majority of the lines.
+
 import java.util.Scanner;
-//4.21
-public class Problem_4_21 {
+public class SSN_Check {
 	public static void main(String[] args){
 		Scanner s = new Scanner(System.in);
 		String social = null;
