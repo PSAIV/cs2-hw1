@@ -1,6 +1,7 @@
+//Checks if a users input meets the criteria for a valid credit card number using mod10 validation
 import java.util.Scanner;
 
-public class Problem_6_31 {
+public class CC_Validator {
 	
 	public static boolean isValid(long number){
 		
