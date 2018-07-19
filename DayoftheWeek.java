@@ -1,6 +1,6 @@
+//Given a day month or year, will find the day of the week that specific date falls on.
 import java.util.*;
-//3.21
-public class Problem_3_21 {
+public class DayoftheWeek {
 	
 	public static void main(String[] args){
 		Scanner s = new Scanner(System.in);
