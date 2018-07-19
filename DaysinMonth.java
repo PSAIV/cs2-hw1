@@ -1,6 +1,7 @@
+//Given a month and a year, will respond with how many days are in the specific month.
 import java.util.Scanner;
-//4.17
-public class Problem_4_17 {
+
+public class DaysinMonth {
 	
 	public static void main(String[] args){
 		//Open scanner
